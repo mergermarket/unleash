@@ -84,7 +84,7 @@
     "serve-favicon": "^2.5.0",
     "unleash-frontend": "3.2.5",
     "yallist": "^3.0.3",
-    "yargs": "^13.2.1"
+    "yargs": "13.2.2"
   },
   "devDependencies": {
     "@passport-next/passport": "^2.1.0",
